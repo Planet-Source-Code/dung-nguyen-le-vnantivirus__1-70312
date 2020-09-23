@@ -1,0 +1,40 @@
+Toan bo du lieu trong thu muc nay deu co the duoc ma hoa
+Tuy nhien de tranh viec ton them nhieu tai nguyen he thong va de ung dung lam viec nhanh chong, Dung Coi se khong ma hoa nhung du lieu do
+
+
+Phuong phap nhan dang theo Icon la phuong phap cho phep nhan dang kha chinh xac cac worm theo tung dong worm 
+
+Vi du : 
+Voi Icon : RealWorm co the giup ban nhan ra cac worm 
+Dong DakNong :
+w32.DakNong.worm
+w32.DakNongB.worm
+w32.DakNongC.worm
+w32.DakNongD.worm
+w32.DakNongE.Trojan
+w32.DakNongF.worm
+w32.DakNongYM.worm
+w32.DakNongYMB.worm
+
+Dong FunnyIM
+w32.FunnyIM.worm
+w32.FunnyIMB.worm
+
+Dong YMDungCoi
+w32.YMDungCoi.worm
+w32.YMDungCoiA.worm
+w32.YMDungCoiB.worm
+w32.YMDungCoiC.worm
+
+
+Okie, kha an tuong. 14 worm
+
+Uu diem
+1. Do day la mot ky thuat rat la (Hinh nhu chua co AV nao su dung) => Hau het cac Vxer chua canh giac => Ok, ky thuat nay co the se bi "Tieu bien" dan, nhung hien tai no la 1 don danh kha bat ngo
+2. Giup ngan chan worm theo tung dong rieng biet (Neu chung dung chung 1 Icon)
+
+Nhuoc diem :
+1. Kha ton dung luong khi cap nhat
+2. Qua trinh quet dien ra kha cham so voi ky thuat thong thuong
+
+Vi vay, Dung Coi chi ap dung che do quet nay de quet USB ma thoi
